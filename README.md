@@ -4,43 +4,69 @@ An AI-powered HR Interview System built using Python, Streamlit, and advanced AI
 This project automates the interview process by conducting Aptitude, Technical, and HR rounds with intelligent question generation and evaluation.
 
 🚀 Features
+
 📄 Resume Upload & Processing
+
 🧠 AI-Generated Interview Questions
+
 📝 Aptitude Round
+
 💻 Technical Round
+
 👨‍💼 HR Round
+
 ✅ Automatic Evaluation
+
 📊 Instant Result Generation
+
 🌐 Streamlit Web Interface
+
 ☁️ Google Cloud Storage Support
 
 🛠️ Technologies Used
+
 Python
+
 Streamlit
+
 Gemini 5.2
+
 GPT
+
 LLaMA
+
 spaCy
+
 Google Cloud
+
 Figma
+
 Adobe XD
 
 📌 Project Workflow
+
 Resume + Job Description
             ↓
+
 AI Question Generation
             ↓
+
 Aptitude Round
             ↓
+
 Technical Round
             ↓
+
 HR Round
             ↓
+
 Evaluation
             ↓
+
 Final Result
 
 📂 Project Structure
+
 HR-Interview-System/
 │
 ├── app.py
